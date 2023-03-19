@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_above="@+id/exit_button"
-        android:layout_marginBottom="403dp"
+        android:layout_marginBottom="369dp"
         android:hint="@string/chat_button"
         android:textColorHint="@color/white" />
 

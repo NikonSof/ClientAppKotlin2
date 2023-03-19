@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ClientAppKotlin</string>
+    <string name="tab_label_todo">Необходимо сделать</string>
+    <string name="tab_label_doing">В процессе</string>
+    <string name="tab_label_done">Сделано</string>
+    <string name="delete_dialog_title">Удалить задачу</string>
+    <string name="delete_dialog_text">Вы уверены, что хотите удалить эту задачу?</string>
+    <string name="delete_dialog_yes_button_label">Да</string>
+    <string name="delete_dialog_no_button_label">Нет</string>
+    <string name="new_task">Новая задача</string>
+    <string name="delete_btn_cont_desc">Кнопка удаления</string>
+    <string name="color_btn_cont_desc">Открытие/закрытие кнопки палитры</string>
+    <string name="drag_btn_cont_desc">Кнопка удержания и перетаскивания</string>
+    <string name="move_btn_cont_desc">Отправление задачи к следующей доске</string>
+    <string name="blue_btn_cont_desc">Кнопка голубого цвета</string>
+    <string name="green_btn_cont_desc">Зеленая кнопка</string>
+    <string name="yellow_btn_cont_desc">Желтая кнопка</string>
+    <string name="pink_btn_cont_desc">Розовая кнопка</string>
+    <string name="task_edit_text_hint">Введите свою задачу</string>
+    <string name="title_activity_navigation">Навигация</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="chat" />
+    <string name="tasks" />
+    <string name="calendar" />
+    <string name="chat_button">Чат</string>
+    <string name="tasks_button">Задачи</string>
+    <string name="calendar_button">Календарь</string>
+    <string name="Kanban_board">Доски</string>
+    <string name="notes">Записи</string>
+    <string name="exit">Выход</string>
+</resources>

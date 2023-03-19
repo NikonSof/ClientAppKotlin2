@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "169607640237",
+    "firebase_url": "https://kotlinapp-9cd7e-default-rtdb.firebaseio.com",
+    "project_id": "kotlinapp-9cd7e",
+    "storage_bucket": "kotlinapp-9cd7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169607640237:android:5523a992f32c42f40ec224",
+        "android_client_info": {
+          "package_name": "com.nikonsoft.clientappkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169607640237-r58ne84d5jb3dt7f7iroqot5edvpn3s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaXpFYEH2IR0x8_DZJIlS1pmcKKBa8yDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169607640237-r58ne84d5jb3dt7f7iroqot5edvpn3s4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
